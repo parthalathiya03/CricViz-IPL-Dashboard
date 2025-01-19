@@ -43,7 +43,7 @@ This dashboard provides insights into:
 
 ### Prerequisites
 - Power BI Desktop (Latest version recommended)
-- Windows 10 
+- Windows 10/11(64-bit)
 - Internet connectivity for refreshing data
 
 ### Installation Steps
