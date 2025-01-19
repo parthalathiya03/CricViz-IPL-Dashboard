@@ -49,8 +49,7 @@ This dashboard provides insights into:
 ### Installation Steps
 1. Clone this repository
 ```bash
-git clone gh repo clone parthalathiya03/CricViz-IPL-Dashboard
-```
+git clone https://github.com/parthalathiya03/CricViz-IPL-Dashboard.git
 2. Open the .pbix file using Power BI Desktop
 3. Refresh the data if needed
 4. Enable required permissions for data refresh
@@ -90,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 👥 Contact
 
 Your Name - [Your Email]
-Project Link: [gh repo clone parthalathiya03/CricViz-IPL-Dashboard](https://github.com/YourUsername/CricViz-IPL-Dashboard)
+Project Link: [https://github.com/parthalathiya03/CricViz-IPL-Dashboard](https://github.com/YourUsername/CricViz-IPL-Dashboard)
 
 ## 🙏 Acknowledgments
 
